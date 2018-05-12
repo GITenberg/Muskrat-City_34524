@@ -1,0 +1,28 @@
+_repo: Muskrat-City_34524
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34524-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Abbott, Henry
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '37066'
+    url: http://www.gutenberg.org/2009/agents/37066
+description: ''
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34524'
+  lccn: '22024927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+title: Muskrat City
+url: http://www.gutenberg.org/ebooks/34524
